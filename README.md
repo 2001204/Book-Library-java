@@ -18,8 +18,8 @@ Author : charlie
 Enter price:
 600
 --
-Book Title: Atomic habits  Book Author: James clear   Price : 500
-Book Title: Drive  Book Author: malien   Price : 300
-Book Title: Mindset  Book Author: charlie   Price : 600
-1400
+- Book Title: Atomic habits  Book Author: James clear   Price : 500
+- Book Title: Drive  Book Author: malien   Price : 300
+- Book Title: Mindset  Book Author: charlie   Price : 600
+- total Prcie: 1400
 
